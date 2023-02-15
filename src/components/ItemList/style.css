@@ -1,0 +1,50 @@
+.itemContainer {
+ margin: 0;
+ padding: 0;
+}
+.itemList {
+  display:flex;
+  height: 40px;
+  list-style:none;padding: 5px;
+  margin-bottom: 10px;
+  background-color: #EAEAEA;
+}
+.itemText {
+  width: 230px;
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+}
+.complete {
+  width: 230px;
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: solid;
+  text-decoration-line: line-through;
+}
+.button-delete {
+  background-color: #e57373;
+}
+.button-complete {
+  background-color: #81c784;
+}
+
+/* .addContainer {
+    width: 100%;
+   height: 50px; 
+}
+.input {
+  width: 290px;
+  
+  padding: 10px;
+}
+.button {
+  width: 70px;
+  height: 40px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #64b5f6;
+} */

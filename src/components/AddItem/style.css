@@ -1,0 +1,18 @@
+.addContainer {
+    width: 100%;
+   height: 50px; 
+}
+.input {
+  width: 290px;
+  
+  padding: 10px;
+}
+.button {
+  width: 70px;
+  height: 40px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #64b5f6;
+}
